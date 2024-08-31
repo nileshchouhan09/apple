@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#root{
+    
+    height: 100%;
+    width: 100%;
+}
+
+.line{
+    border-bottom: 0.3px solid #333;
+    padding-bottom: 5px;
+}
